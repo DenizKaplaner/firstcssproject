@@ -1,0 +1,64 @@
+/* Class --> .text-red {} */
+/* id --> #id-bilgisi {} */
+body{
+    background-color:darkslategray;
+}
+
+#id-h1 {
+    color:lightgreen;
+    font-size: 60px;
+}
+/* class */
+.id-nav {
+    color:lightpink;
+    font-size: 20px;
+    /* NAV için  */
+}
+
+#id-h2 {
+    color:lightblue;
+    font-size: 40px;
+}
+#id-anasayfa-p {
+    color: aliceblue;
+    font-size: 15px;
+}
+#id-h3 {
+    color:lightsalmon;
+    font-size: 30px;
+}
+
+body {
+    text-align: center;
+  }
+  
+.ortala2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+  }
+
+.article {
+    color: aqua;
+    font-size: 20px;
+}
+img {
+    border: 1px solid white;
+    border-radius: 50px;
+    padding: 2px;
+    width: 200px;
+}
+
+.hakkımızda-h2 {
+    color:lightsalmon;
+    font-size: 30px;
+}
+
+.hakkımızda-p {
+    color: white;
+    font-size: 20px;
+}
+#ürünelerimiz-li {
+    color: white;
+    font-size: 20px;
+}
